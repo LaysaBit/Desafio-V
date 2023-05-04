@@ -1,0 +1,6 @@
+dbdata
+.env
+logs
+plugins
+dags/__pycache__
+dags/.airflowignore
