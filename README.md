@@ -43,6 +43,7 @@ Senha = Airflow
 
 - Antes de ligar a pipeline "Desafio-V", criar uma variável "my_email" conforme a imagem:
     - Admin -> Variables:
+    <img src = https://user-images.githubusercontent.com/46203330/236343136-48536990-9db2-4d90-8f69-3f536172383d.png />
 
 - Os arquivos "output_orders.csv", "count.txt" e "final_output.txt" foram/são salvos na pasta data.
 
